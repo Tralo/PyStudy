@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d59e01b4-e02d-4bfe-b72e-d0055b06eb83" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,13 +80,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Test4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2305">
-              <caret line="105" column="14" lean-forward="true" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+            <state relative-caret-position="459">
+              <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,12 +175,12 @@
         <option value="$PROJECT_DIR$/tensorflowDemo/Test6/Test8.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test2.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test3.py" />
-        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test8.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py" />
+        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" />
       </list>
     </option>
   </component>
@@ -748,9 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -765,10 +774,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2305">
-          <caret line="105" column="14" lean-forward="true" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        <state relative-caret-position="459">
+          <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
