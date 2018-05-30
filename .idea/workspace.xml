@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d59e01b4-e02d-4bfe-b72e-d0055b06eb83" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +43,7 @@
     <SUITE FILE_PATH="coverage/PyStudy$NumpyTest7.coverage" NAME="NumpyTest7 Coverage Results" MODIFIED="1524124993050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpyTest" />
     <SUITE FILE_PATH="coverage/PyStudy$Master.coverage" NAME="Master Coverage Results" MODIFIED="1524448218208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyprocess" />
     <SUITE FILE_PATH="coverage/PyStudy$novel.coverage" NAME="novel Coverage Results" MODIFIED="1524554903057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/novel" />
-    <SUITE FILE_PATH="coverage/PyStudy$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1527314483913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test6" />
+    <SUITE FILE_PATH="coverage/PyStudy$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1527649430997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
     <SUITE FILE_PATH="coverage/PyStudy$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1527577303962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
     <SUITE FILE_PATH="coverage/PyStudy$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1527489738749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
     <SUITE FILE_PATH="coverage/PyStudy$Server.coverage" NAME="Server Coverage Results" MODIFIED="1524449341126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyprocess" />
@@ -53,15 +57,15 @@
     <SUITE FILE_PATH="coverage/PyStudy$LovePy.coverage" NAME="LovePy Coverage Results" MODIFIED="1524030992260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strStudy" />
     <SUITE FILE_PATH="coverage/PyStudy$FindWord.coverage" NAME="FindWord Coverage Results" MODIFIED="1524023598152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileDeal" />
     <SUITE FILE_PATH="coverage/PyStudy$FileCreate.coverage" NAME="FileCreate Coverage Results" MODIFIED="1524028932441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileDeal" />
-    <SUITE FILE_PATH="coverage/PyStudy$Test7.coverage" NAME="Test7 Coverage Results" MODIFIED="1527317815409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test6" />
-    <SUITE FILE_PATH="coverage/PyStudy$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1527316074765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test6" />
+    <SUITE FILE_PATH="coverage/PyStudy$Test7.coverage" NAME="Test7 Coverage Results" MODIFIED="1527662923187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
+    <SUITE FILE_PATH="coverage/PyStudy$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1527652163431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
     <SUITE FILE_PATH="coverage/PyStudy$VeritifyCode.coverage" NAME="VeritifyCode Coverage Results" MODIFIED="1524036156047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vertifycode" />
     <SUITE FILE_PATH="coverage/PyStudy$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1524045210669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tiebaCrawl" />
     <SUITE FILE_PATH="coverage/PyStudy$Test10.coverage" NAME="Test10 Coverage Results" MODIFIED="1526359303490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/test3" />
     <SUITE FILE_PATH="coverage/PyStudy$meizi.coverage" NAME="meizi Coverage Results" MODIFIED="1524109788552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meizi" />
     <SUITE FILE_PATH="coverage/PyStudy$NumpyTest3.coverage" NAME="NumpyTest3 Coverage Results" MODIFIED="1524123398625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpyTest" />
     <SUITE FILE_PATH="coverage/PyStudy$Server__2_.coverage" NAME="Server (2) Coverage Results" MODIFIED="1524450108583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udpDemo" />
-    <SUITE FILE_PATH="coverage/PyStudy$Test9.coverage" NAME="Test9 Coverage Results" MODIFIED="1526352560394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/test3" />
+    <SUITE FILE_PATH="coverage/PyStudy$Test9.coverage" NAME="Test9 Coverage Results" MODIFIED="1527645199346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/Test7" />
     <SUITE FILE_PATH="coverage/PyStudy$Test2__2_.coverage" NAME="Test2 (2) Coverage Results" MODIFIED="1526268179460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflowDemo/test1" />
   </component>
   <component name="DatabaseView">
@@ -80,25 +84,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Test4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py">
+      <file leaf-file-name="Test7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+            <state relative-caret-position="-50">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
-                <element signature="e#15#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test5.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#15#38#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,12 +167,12 @@
         <option value="$PROJECT_DIR$/tensorflowDemo/Test6/Test8.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test2.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test3.py" />
+        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test8.py" />
+        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py" />
+        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" />
+        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py" />
         <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py" />
-        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test8.py" />
-        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" />
-        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py" />
-        <option value="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" />
       </list>
     </option>
   </component>
@@ -191,8 +183,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
-    <option name="y" value="132" />
+    <option name="x" value="468" />
+    <option name="y" value="410" />
     <option name="width" value="1385" />
     <option name="height" value="955" />
   </component>
@@ -204,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,7 +219,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,64 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test4">
-    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Test7">
     <configuration name="Test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,7 +272,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Test8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,31 +280,88 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test6/Test8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Test6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Test7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Test9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflowDemo/Test7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Test1" />
-      <item itemvalue="Python.Test8" />
-      <item itemvalue="Python.Test2" />
-      <item itemvalue="Python.Test3" />
       <item itemvalue="Python.Test4" />
+      <item itemvalue="Python.Test5" />
+      <item itemvalue="Python.Test9" />
+      <item itemvalue="Python.Test6" />
+      <item itemvalue="Python.Test7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test7" />
+        <item itemvalue="Python.Test6" />
+        <item itemvalue="Python.Test5" />
+        <item itemvalue="Python.Test9" />
         <item itemvalue="Python.Test4" />
-        <item itemvalue="Python.Test3" />
-        <item itemvalue="Python.Test2" />
-        <item itemvalue="Python.Test1" />
-        <item itemvalue="Python.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -404,21 +396,21 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32995495" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8825107" visible="true" weight="0.19481982" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8825107" weight="0.3322072" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946353" weight="0.32882884" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13304721" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13465665" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3583691" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.22049356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
-      <window_info anchor="right" id="R Graphics" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.3299356" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="R Packages" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.3299356" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4972106" weight="0.25080043" />
@@ -436,27 +428,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/python36/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/test2/Test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/test2/Test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netwatch/Netwatch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-107">
@@ -734,9 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,11 +712,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="807">
           <caret line="34" column="127" lean-forward="true" selection-start-line="34" selection-start-column="127" selection-end-line="34" selection-end-column="127" />
-          <folding>
-            <element signature="e#15#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test8.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test3.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,34 +728,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test8.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+        <state relative-caret-position="375">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2075865430/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="4276" column="8" selection-start-line="4276" selection-start-column="8" selection-end-line="4276" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1945" column="13" lean-forward="true" selection-start-line="1945" selection-start-column="13" selection-end-line="1945" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/site-packages/tensorflow/python/framework/sparse_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="22" selection-end-column="53" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflowDemo/Test7/Test7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
