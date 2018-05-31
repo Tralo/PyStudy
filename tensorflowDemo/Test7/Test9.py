@@ -42,7 +42,7 @@ if __name__ == '__main__':
         max_index = min((i + 1) * batch_size, len(x_vals_train))
         x_batch = x_vals_test[min_index: max_index]
         y_batch = y_vals_test[min_index: max_index]
-        predictions = sess.run(prediction, feed_dict={x_data_train: x_vals_train, x_data_test:x_batch,
+        predictions = sess.run(prediction, feed_dict={x_data_train: x_vals_train, x_data_test: x_batch,
                                                       y_target_train: y_vals_train, y_target_test: y_batch})
         test_output.extend(predictions)
         actual_vals.extend(np.argmax(y_batch, axis=1))
